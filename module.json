@@ -1,0 +1,61 @@
+{
+    "name": "ranger-fog",
+    "title": "Ranger Fog",
+    "description": "A module that allows the GM to enable/disable Fog Exploration for specific users.",
+    
+    "manifestPlusVersion": "1.2.0",
+    
+    "version": "1.0.0",
+    "author": "Ceane",
+    "authors": [
+        {
+            "name": "Ceane",
+            "reddit": "u/Ceane"
+        }
+    ],
+
+    "esmodules": [
+        "ranger-fog.js"
+    ],
+    
+    "dependencies": [
+        {
+            "name": "lib-wrapper"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+
+    "media": [
+        {
+            "type": "screenshot",
+            "url": "https://raw.githubusercontent.com/CeaneC/FoundryVTT-Ranger-Fog/master/img/example.png",
+            "caption": "A user with Fog Exploration disabled, and a user with it enabled"
+        },
+        {
+            "type": "cover",
+            "url": "https://raw.githubusercontent.com/CeaneC/FoundryVTT-Ranger-Fog/master/img/cover.png",
+            "caption": "Ranger Fog"
+        },
+        {
+            "type": "icon",
+            "url": "https://raw.githubusercontent.com/CeaneC/FoundryVTT-Ranger-Fog/master/img/icon.png",
+            "caption": "Ranger Fog"
+        }
+    ],
+
+    "readme": "README.md",
+    "changelog": "Changelog.md",
+
+    "manifest": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/blob/master/module.json",
+    "url": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog",
+    "bugs": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/issues"
+}
