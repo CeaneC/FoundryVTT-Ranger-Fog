@@ -37,17 +37,17 @@
     "media": [
         {
             "type": "screenshot",
-            "url": "img/example.png",
+            "url": "https://raw.githubusercontent.com/CeaneC/FoundryVTT-Ranger-Fog/master/img/example.png",
             "caption": "A user with Fog Exploration disabled, and a user with it enabled"
         },
         {
             "type": "cover",
-            "url": "img/cover.png",
+            "url": "https://raw.githubusercontent.com/CeaneC/FoundryVTT-Ranger-Fog/master/img/cover.png",
             "caption": "Ranger Fog"
         },
         {
             "type": "icon",
-            "url": "img/icon.png",
+            "url": "https://raw.githubusercontent.com/CeaneC/FoundryVTT-Ranger-Fog/master/img/icon.png",
             "caption": "Ranger Fog"
         }
     ],
