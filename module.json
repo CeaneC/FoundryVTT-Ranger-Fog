@@ -1,0 +1,26 @@
+{
+    "name": "ranger-fog",
+    "title": "Ranger Fog",
+    "description": "A module that allows the GM to enable/disable Fog Exploration for specific users.",
+    "author": "Ceane",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog",
+    "scripts": [],
+    "esmodules": [
+        "ranger-fog.js"
+    ],
+    "dependencies": [
+        {
+            "name": "lib-wrapper"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ]
+}
