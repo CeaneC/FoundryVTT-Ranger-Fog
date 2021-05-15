@@ -1,3 +1,8 @@
+# 1.0.1
+
+* Add a download link to the module.json file to fix installs
+* Add [Bug Reporter](https://www.foundryvtt-hub.com/package/bug-reporter/) support
+
 # 1.0.0
 
 Initial release.
