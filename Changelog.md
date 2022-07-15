@@ -1,3 +1,12 @@
+# 1.0.3
+
+* Bump compatible core version to version 9
+
+
+# 1.0.2
+
+* Bump compatible core version to 0.8.9
+
 # 1.0.1
 
 * Add a download link to the module.json file to fix installs

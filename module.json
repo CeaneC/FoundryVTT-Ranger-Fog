@@ -5,12 +5,13 @@
     
     "manifestPlusVersion": "1.2.0",
     
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "Ceane",
     "authors": [
         {
             "name": "Ceane",
-            "reddit": "u/Ceane"
+            "reddit": "u/Ceane",
+            "discord": "[object Object]#8335"
         }
     ],
 
@@ -32,7 +33,7 @@
     ],
 
     "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "9",
 
     "media": [
         {
