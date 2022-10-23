@@ -1,7 +1,7 @@
 let moduleName = "ranger-fog";
 
 export const registerSettings = function() {
-    let users = game.users.map(u => u.data);
+    let users = game.users.map(u => u);
 
     users.forEach(user => {
         game.settings.register(moduleName, `enabled-for-${user._id}`, {

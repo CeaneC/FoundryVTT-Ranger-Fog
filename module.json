@@ -1,11 +1,11 @@
 {
-    "name": "ranger-fog",
+    "id": "ranger-fog",
     "title": "Ranger Fog",
     "description": "A module that allows the GM to enable/disable Fog Exploration for specific users.",
     
     "manifestPlusVersion": "1.2.0",
     
-    "version": "1.0.3",
+    "version": "2.0.0",
     "author": "Ceane",
     "authors": [
         {
@@ -32,8 +32,10 @@
         }
     ],
 
-    "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10.288"
+    },
 
     "media": [
         {
@@ -56,8 +58,8 @@
     "readme": "README.md",
     "changelog": "Changelog.md",
 
-    "manifest": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/1.0.3/module.json",
-    "download": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/1.0.3/ranger-fog.zip",
+    "manifest": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/2.0.0/module.json",
+    "download": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/2.0.0/ranger-fog.zip",
     "url": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog",
     "bugs": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/issues",
     "allowBugReporter": true

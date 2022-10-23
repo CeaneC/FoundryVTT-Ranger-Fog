@@ -6,7 +6,7 @@ Hooks.once('ready', () => {
         ui.notifications.error("Module ranger-fog requires the 'libWrapper' module. Please install and activate it.");
     } else {
         registerSettings();
-        libWrapper.register('ranger-fog', 'SightLayer.prototype.fogExploration', getFogExplorationForUser, "WRAPPER");
+        libWrapper.register('ranger-fog', 'FogManager.prototype.fogExploration', getFogExplorationForUser, "WRAPPER");
     }    
 });
 
