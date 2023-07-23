@@ -64,8 +64,8 @@
     "readme": "README.md",
     "changelog": "Changelog.md",
 
-    "manifest": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/2.0.0/module.json",
-    "download": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/2.0.0/ranger-fog.zip",
+    "manifest": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/releases/download/2.0.1/module.json",
+    "download": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/archive/refs/tags/2.0.1.zip",
     "url": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog",
     "bugs": "https://github.com/CeaneC/FoundryVTT-Ranger-Fog/issues",
     "allowBugReporter": true
