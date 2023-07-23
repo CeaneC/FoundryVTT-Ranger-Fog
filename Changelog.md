@@ -1,3 +1,6 @@
+## 2.0.1 (by coffiarts)
+* Foundry v11 compatibility (only trivial changes to module.json)
+
 ## 2.0.0
 * Add support for FoundryVTT V10, breaking compatibility with prior versions.
 

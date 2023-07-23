@@ -5,7 +5,7 @@
     
     "manifestPlusVersion": "1.2.0",
     
-    "version": "2.0.0",
+    "version": "2.0.1",
     "author": "Ceane",
     "authors": [
         {
@@ -18,12 +18,18 @@
     "esmodules": [
         "ranger-fog.js"
     ],
-    
-    "dependencies": [
-        {
-            "name": "lib-wrapper"
-        }
-    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "lib-wrapper",
+                "type": "module",
+                "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/download/v1.12.13.0/module.json",
+                "compatibility": {
+                    "verified": "1.12.13.0"
+                }
+            }
+        ]
+    },
     "languages": [
         {
             "lang": "en",
@@ -34,7 +40,7 @@
 
     "compatibility": {
         "minimum": "10",
-        "verified": "10.288"
+        "verified": "11"
     },
 
     "media": [
