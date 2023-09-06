@@ -11,5 +11,5 @@ Hooks.once('ready', () => {
 });
 
 function getFogExplorationForUser(wrapped, ...args) {
-    return wrapped(...args) && game.settings.get("ranger-fog", `enabled-for-${game.user.data._id}`);
+    return wrapped(...args) && game.settings.get("ranger-fog", `enabled-for-${game.user._id}`);
 }

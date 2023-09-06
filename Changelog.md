@@ -1,3 +1,6 @@
+## 2.0.2
+* Fix deprecation warnings in console from accessing `user.data`
+
 ## 2.0.1 (by coffiarts)
 * Foundry v11 compatibility (only trivial changes to module.json)
 
